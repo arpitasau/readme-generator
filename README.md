@@ -11,6 +11,8 @@ Readme-Generator
 
 This project helps the user to create professional readme file for git hub repo by answering the prompts.
 
+<img src="/utils/terminal.png">
+
 ## Table of contents
 
 * [Installation](#installation)
@@ -54,5 +56,3 @@ npm test
 If you have any questions, please open an issue or contact [arpitasau](https://github.com/arpitasau).
 
 For addition information, please contact arpitakaran@gmail.com.
-
-<img src="/utils/terminal.png">
