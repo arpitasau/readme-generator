@@ -9,7 +9,7 @@ Readme-Generator
 
 ## Description
 
-This project helps the user to generate readme quickly
+This project helps the user to create professional readme file for git hub repo by answering the prompts.
 
 ## Table of contents
 
@@ -35,9 +35,11 @@ npm i
 
 ## Usage
 
-To use this readme generator application please clone github repo, then run it in command line.
+User need to clone the code from git hub and run it in terminal.
 
 ## Contributing
+
+If you would like to contribute, please contact me via email(see below).
 
 ## Tests
 
@@ -51,6 +53,6 @@ npm test
 
 If you have any questions, please open an issue or contact [arpitasau](https://github.com/arpitasau).
 
-## Questions
-
 For addition information, please contact arpitakaran@gmail.com.
+
+<img src="/utils/terminal.png">
