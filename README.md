@@ -1,4 +1,4 @@
-# Readme Generator
+# readme generator
 
 [![repo size](https://img.shields.io/github/repo-size/arpitasau/readme-generator)](https://github.com/arpitasau/readme-generator) [![Github license](https://img.shields.io/badge/license-No%20license-blue.svg)](https://opensource.org/licenses/undefined)
 
@@ -13,9 +13,12 @@ This project helps the user to create professional readme file for git hub repo 
 
 <img src="/utils/terminal.png">
 
+
 ## Video demo of the application
 
-<video src="https://drive.google.com/file/d/1GAmgiW23tgnaGvGGT99kzykP9-n5iTAC/view?usp=sharing">
+<video width="320" height="240" controls>
+  <source src="/utils/demo_readme.mov" type="video/mp4">
+</video>
 
 ## Table of contents
 
@@ -41,7 +44,10 @@ npm i
 
 ## Usage
 
-User need to clone the code from git hub and run it in terminal.
+User need to clone the repo.
+Open in terminal and run the command npm i
+Run the command node index.js
+
 
 ## Contributing
 
@@ -60,3 +66,5 @@ npm test
 If you have any questions, please open an issue or contact [arpitasau](https://github.com/arpitasau).
 
 For addition information, please contact arpitakaran@gmail.com.
+
+<img src="/utils/terminal.png">
