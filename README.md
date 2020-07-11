@@ -1,4 +1,4 @@
-# readme generator
+# Readme Generator
 
 [![repo size](https://img.shields.io/github/repo-size/arpitasau/readme-generator)](https://github.com/arpitasau/readme-generator) [![Github license](https://img.shields.io/badge/license-No%20license-blue.svg)](https://opensource.org/licenses/undefined)
 
