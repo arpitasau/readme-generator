@@ -4,8 +4,6 @@ const inquirer = require("inquirer");
 const chalk = require("chalk");
 const generateMarkdown = require("./utils/generateMarkdown.js");
 
-
-
 //This function is to validate that user added something when prompted
 const validateInput = function(input){
     if(input === ''){
@@ -50,8 +48,6 @@ const questions = [
         message: chalk.blue.bgYellow.bold('Would you like a table of contents?'),
         name: 'table',
     },
-
-
     {
         type: 'input',
         message: chalk.whiteBright.bgBlue.bold('What command does the user need to run to install dependencies?'),
@@ -60,7 +56,6 @@ const questions = [
         validate: validateInput
         
     },
-    
     {
         type: 'input',
         message: chalk.white.bgMagentaBright.bold('How does one use your product?'),

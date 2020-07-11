@@ -11,6 +11,15 @@ Readme-Generator
 
 This project helps the user to create professional readme file for git hub repo by answering the prompts.
 
+<img src="/utils/terminal.png">
+
+
+## Video demo of the application
+
+<video width="320" height="240" controls>
+  <source src="/utils/demo_readme.mov" type="video/mp4">
+</video>
+
 ## Table of contents
 
 * [Installation](#installation)
@@ -35,7 +44,10 @@ npm i
 
 ## Usage
 
-User need to clone the code from git hub and run it in terminal.
+User need to clone the repo.
+Open in terminal and run the command npm i
+Run the command node index.js
+
 
 ## Contributing
 
