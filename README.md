@@ -1,6 +1,6 @@
 # readme generator
 
-[![repo size](https://img.shields.io/github/repo-size/arr/ii)](https://github.com/arr/ii) [![Github license](https://img.shields.io/badge/license-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![repo size](https://img.shields.io/github/repo-size/arpitasau/readme-generator)](https://github.com/arpitasau/readme-generator) [![Github license](https://img.shields.io/badge/license-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 ## Title
 
