@@ -13,6 +13,10 @@ This project helps the user to create professional readme file for git hub repo 
 
 <img src="/utils/terminal.png">
 
+## Video demo of the application
+
+<video src="https://drive.google.com/file/d/1GAmgiW23tgnaGvGGT99kzykP9-n5iTAC/view?usp=sharing">
+
 ## Table of contents
 
 * [Installation](#installation)
