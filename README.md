@@ -66,5 +66,3 @@ npm test
 If you have any questions, please open an issue or contact [arpitasau](https://github.com/arpitasau).
 
 For addition information, please contact arpitakaran@gmail.com.
-
-<img src="/utils/terminal.png">
