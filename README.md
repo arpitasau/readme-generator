@@ -38,9 +38,10 @@ npm i
 
 ## Usage
 
-* User need to clone the repo.
-* Open in terminal and run the command npm i
-* Run the command node index.js
+* User needs to clone the repo.
+* Open the folder in terminal and run the command npm i
+* Once dependencies are installed, run the command node index.js
+* Answer the prompts
 
 
 ## Contributing
