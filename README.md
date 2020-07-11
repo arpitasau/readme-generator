@@ -67,4 +67,3 @@ If you have any questions, please open an issue or contact [arpitasau](https://g
 
 For addition information, please contact arpitakaran@gmail.com.
 
-<img src="/utils/terminal.png">
