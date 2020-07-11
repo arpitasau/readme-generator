@@ -14,12 +14,6 @@ This project helps the user to create professional readme file for git hub repo 
 <img src="/utils/terminal.png">
 
 
-## Video demo of the application
-
-<video width="320" height="240" controls>
-  <source src="/utils/demo_readme.mov" type="video/mp4">
-</video>
-
 ## Table of contents
 
 * [Installation](#installation)
@@ -44,9 +38,9 @@ npm i
 
 ## Usage
 
-User need to clone the repo.
-Open in terminal and run the command npm i
-Run the command node index.js
+* User need to clone the repo.
+* Open in terminal and run the command npm i
+* Run the command node index.js
 
 
 ## Contributing
