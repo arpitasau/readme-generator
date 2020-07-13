@@ -15,7 +15,7 @@ This project helps the user to create professional readme file for git hub repo 
 
 ## Video Walkthrough
 
-<a href="https://drive.google.com/file/d/1GAmgiW23tgnaGvGGT99kzykP9-n5iTAC/view?usp=sharing">Please click here to see the video</a>
+<a href="https://drive.google.com/file/d/1GAmgiW23tgnaGvGGT99kzykP9-n5iTAC/view?usp=sharing" target="_blank">Please click here to see the video</a>
 
 
 ## Table of contents
